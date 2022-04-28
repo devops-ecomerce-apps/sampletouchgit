@@ -1,5 +1,4 @@
 hi i am somasekher raju
 welome to github
 welcome to java
-this line is updated
-this line is again updated 
+this line is updated 
